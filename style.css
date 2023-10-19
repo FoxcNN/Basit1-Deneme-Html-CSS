@@ -1,0 +1,57 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.anaSayfa{
+    background-color: rgb(0, 0, 0);
+    border: 1px solid white;
+    height: 950px;
+    width: 500px ;
+    border-radius: 10px;
+}
+.baslik{
+    text-align:center;
+    font-size: 50px;
+    color: white;
+}
+.ol{
+
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.oyuncuListesi{
+
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.resim{
+    border-radius: 10px;
+    margin: 10px 10px 10px -10px;
+    width: 100%;
+    height: 250px;
+}
+.name{
+    text-align:center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yorum{
+    text-align:center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fragman{
+    margin: 10px 10px 10px 14px;
+    width: 100%;
+    height: 250px;
+}
+button{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 30px 30px 90px;
+}
